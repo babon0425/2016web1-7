@@ -7,6 +7,7 @@
 
 body{
   background-color: #CDEDF6;
+  float: left;
 }
 header{
   background-color: #EF7B45;
@@ -14,15 +15,19 @@ header{
 #main1{
   background-color: #D84727;
   width: 500px;
+  float: left;
 }
 #main2{
   background-color: #5EB1BF;
   width: 400px;
+  float: right;
 }
 aside{
   background-color: #042A2B;
   width: 200px;
+  float: left;
 }
 footer{
   background-color: white;
+  clear: both;
 }
