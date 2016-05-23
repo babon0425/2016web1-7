@@ -21,6 +21,7 @@ header{
 }
 aside{
   background-color: #042A2B;
+  width: 200px;
   float: left;
 }
 footer{
