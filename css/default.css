@@ -24,6 +24,12 @@ header{
   float: left;
   overflow: hidden;
 }
+#good_picture{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
 aside{
   background-color: #042A2B;
   width: 200px;
