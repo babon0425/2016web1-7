@@ -11,6 +11,7 @@ body{
 }
 header{
   background-color: #EF7B45;
+  float: left;
 }
 .box{
   background-color: red;
