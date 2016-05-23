@@ -7,11 +7,14 @@
 
 body{
   background-color: #CDEDF6;
-  float: left;
+  margin: 48px 0 0 0;
 }
 header{
   background-color: #EF7B45;
-  float: left;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
 }
 .box{
   background-color: red;
