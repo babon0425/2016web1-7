@@ -12,16 +12,12 @@ body{
 header{
   background-color: #EF7B45;
 }
-#main1{
-  background-color: #D84727;
-  width: calc(100% - 200px);
-  min-width: 500px;
+.box{
+  background-color: red;
+  color: black;
+  width: 240px;
+  margin: 5px;
   float: left;
-}
-#main2{
-  background-color: #5EB1BF;
-  width: 400px;
-  float: right;
 }
 aside{
   background-color: #042A2B;
